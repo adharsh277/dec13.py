@@ -1,0 +1,26 @@
+name = 'nora '
+likes = 'likes the colour '
+color = "Blue"
+age = ' and she is just 15'
+grades = [67, 100, 87, 56]
+print(name)
+print(name+likes+color+age)
+print(grades[2])
+mylist = [1, 34, 56, 98]
+my_list = ['rajiiev', 'manojk jayan', 'chronic bahelor',
+           'tipu sulathan', 'chandra gupta maurya']
+x = 'chandragupta was a extra ordinary king of  the gupta empire and his period of rulling was secure and happines moments'
+print(x.upper())
+print(x.lower())
+print(my_list)
+print(mylist)
+print(mylist[2])
+print(mylist[-1])
+print(my_list[2])
+print(my_list[1])
+print(my_list[4])
+print(x.replace('gupta', 'maurya'))
+print(x.replace('g', 'm'))
+print(x.upper())
+print(x.lower())
+
